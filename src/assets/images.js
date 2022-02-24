@@ -1,0 +1,11 @@
+const blanketsofHope = require('./images/blanketsofHope.png')
+const oneTreePlantedLog = require('./images/oneTreePlantedLog.png')
+const rxArt = require('./images/rxArt.png')
+const nearByView = require('./images/nearByView.png')
+const chris = require('./images/chris.png')
+const dad = require('./images/dad.png')
+const mom = require('./images/mom.png')
+const star = require('./images/star.png')
+const disney = require('./images/disney.png')
+const nearCircles = require('./images/nearCircles.png')
+export default { blanketsofHope, oneTreePlantedLog, rxArt, nearByView, chris, star, dad, mom, disney, nearCircles }
